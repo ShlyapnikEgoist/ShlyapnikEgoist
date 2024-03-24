@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVyYXNneTF2aGx3cmk1a3J2bzJsY2k0M3B3N3Z2Njkxbmc3Yml0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ru9sjtZ09XOEg/giphy.gif" alt="Disappearing Black Guy"/>
+</p>
 <!--
 **ShlyapnikEgoist/ShlyapnikEgoist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
